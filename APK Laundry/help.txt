@@ -1,0 +1,38 @@
+
+        _____________________________________________________________________________________________________________
+	
+					              - Laundry Clean -           
+	
+                                                     PETUNJUK PENGGUNAAN
+	_____________________________________________________________________________________________________________
+
+	pada saat menjalankan program ini, anda akan diarahkan pada menu utama
+	terdapat 4 menu utama
+	yaitu : 
+	1. transaksi
+	- menu ini berfungsi untuk memasukkan setiap data pelanggan, melihat data pelanggan, dan mengalkulasikan data 
+	 dari setiap pembayaran.
+	- anda dapat melihat jumlah pelanggan, nama pelanggan, berat setiap pesanan pelanggan, dan tipe jenis paket
+	  yang pelanggan gunakan 
+	- pada menu ini juga anda dapat melihat status dari pengguna jasa penyucian, misal akan terlihat lunas dan 
+	  baru membayar DP
+	- setiap pembayaran lunas akan mendapatkan diskon 13%
+	- setiap pembayaran menggunakan sistem DP maka dikenakan wajib membayar 30% terlebih dahulu
+	- fitur tambah data digunakan untuk menambah pesanan pelanggan
+	- fitur bayar digunakan untuk membayar data pelanggan yang belum lunas
+	- lihatlah tabel data untuk melihat data pelanggan terupdate
+	2. hapus pesanan
+	- pada menu ini anda dapat menghapus riwayat dari pesanan penyucian
+	3. help
+	- pada menu ini anda dapat melihat petunjuk penggunaan dari sistem ini
+	4. masukkan
+	- untuk membuat masukkan perihal laporan feedback, kerusakan atau bug dalam sistem ini
+	4. exit
+	menu untuk anda keluar dari sistem ini
+
+        _____________________________________________________________________________________________________________
+
+                                                     - Laundry Clean -
+							 Est. 2021
+	_____________________________________________________________________________________________________________
+	
